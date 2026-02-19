@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hi there! 👋</h1>
-  <p><b>Full-Stack Developer | Web3 Enthusiast | DevOps Explorer</b></p>
+  <h1>Hi there! I am Jaideep  👋</h1>
+  <p><b>Full-Stack Developer | Web3 developer | DevOps Explorer</b></p>
   
   <a href="https://linkedin.com/in/mandadi-jaideep/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -56,9 +56,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thelegendofkira&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thelegendofkira&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
