@@ -2,7 +2,11 @@
 
   <h1>Hi there! I am Jaideep  👋</h1>
   <p><b>Full-Stack Developer | Web3 developer | DevOps Explorer</b></p>
-  
+
+   <p> proof of work <p>
+  <h2> <a href="https://www.notion.so/PROOF-OF-WORK-SOLANA-FELLOWSHIP-APPLICATION-3132dff9674a80fdb4d8e602145d50a8?source=copy_link">
+     Proof of Work click me 
+  </a></h2>  
   <a href="https://linkedin.com/in/mandadi-jaideep/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
